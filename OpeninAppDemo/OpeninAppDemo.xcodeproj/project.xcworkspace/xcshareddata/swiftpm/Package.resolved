@@ -1,0 +1,15 @@
+{
+  "originHash" : "3705ae80609dde311791c82732aa916f4a4f5cc23f3074383239c7ed53451035",
+  "pins" : [
+    {
+      "identity" : "swiftuicharts",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/willdale/SwiftUICharts",
+      "state" : {
+        "revision" : "53a3a2f16730af6709283f83a9dc75a3dde252ff",
+        "version" : "2.10.2"
+      }
+    }
+  ],
+  "version" : 3
+}
